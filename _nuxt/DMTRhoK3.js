@@ -1,0 +1,1 @@
+import{_ as r}from"./DlAUqK2U.js";import{c as o,o as t,a as n}from"./BE4UkoUn.js";const a={};function c(s,e){return t(),o("div",null,e[0]||(e[0]=[n("h1",null,"carton-query",-1)]))}const u=r(a,[["render",c]]);export{u as default};
