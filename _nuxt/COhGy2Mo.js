@@ -1,0 +1,1 @@
+import{k as i}from"./C5kWsNNw.js";const o=()=>({filterQuery:e=>Object.fromEntries(Object.entries(e).filter(([,t])=>t!=null&&t!==""))}),u=async r=>{const{$api:e}=i(),{filterQuery:t}=o(),s=t(r??{}),n=new URLSearchParams(s).toString();return await e(`/api/inbound_items${n?`?${n}`:""}`,{method:"GET"})};export{u as f,o as u};
