@@ -1,1 +1,0 @@
-import{_ as o}from"./DlAUqK2U.js";import{c as r,o as n,a as t}from"./C5kWsNNw.js";const s={};function c(a,e){return n(),r("div",null,e[0]||(e[0]=[t("h1",null,"picking",-1)]))}const f=o(s,[["render",c]]);export{f as default};

@@ -1,1 +1,0 @@
-import{_ as t}from"./DlAUqK2U.js";import{c as o,o as r,a as n}from"./C5kWsNNw.js";const a={};function l(s,e){return r(),o("div",null,e[0]||(e[0]=[n("h1",null,"pallet",-1)]))}const i=t(a,[["render",l]]);export{i as default};

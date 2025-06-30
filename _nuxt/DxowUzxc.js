@@ -1,1 +1,0 @@
-import{_ as o}from"./DlAUqK2U.js";import{c as r,o as t,a}from"./C5kWsNNw.js";const n={};function l(s,e){return t(),r("div",null,e[0]||(e[0]=[a("h1",null,"label-outer",-1)]))}const u=o(n,[["render",l]]);export{u as default};

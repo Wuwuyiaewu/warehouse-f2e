@@ -1,0 +1,1 @@
+import{e as n,y as r,p as s,w as a,i as _,o as p,d as u}from"./bm8F1AQw.js";import{u as c}from"./Cx83psJe.js";const f=n({__name:"printID",setup(i){const e=c();return r(()=>e.storeCollectQueryTableRef),(l,t)=>{const o=_;return p(),s(o,null,{default:a(()=>t[0]||(t[0]=[u(" Print all ")])),_:1,__:[0]})}}});export{f as _};

@@ -1,1 +1,0 @@
-import{x as c,r as n}from"./C5kWsNNw.js";const I=c("userRoInfo",()=>{const e=n(""),o=n(NaN);function t(r){e.value=r}function u(){e.value=""}function a(r){o.value=r}function s(){o.value=NaN}return{roID:e,setRoID:t,clearRoID:u,orderID:o,setOrderID:a,clearOrderID:s}});export{I as u};
